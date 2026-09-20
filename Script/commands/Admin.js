@@ -22,22 +22,22 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
-│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
+│👤 𝐍𝐚𝐦𝐞 : Mehedi Hassan 
+│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Mail
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 18+
+│🎂 𝐀𝐠𝐞 : 20+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Complete ✅ 
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Chattogram 
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
-│📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
-│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│📘 Facebook:
+│https://www.facebook.com/share/19Rv7QS9VM/
+│💬 Telegram:
+│https://t.me/mhmehedi2352
 └───────────────⭓
 
 ┌───────────────⭓
